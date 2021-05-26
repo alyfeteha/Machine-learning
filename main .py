@@ -1,3 +1,8 @@
+# this project is an implementation of image classification using eigen faces dataset . i applied the PCA and LDA algorithms as shown on this dataset
+
+
+
+
 import os
 import cv2
 from PIL import Image
